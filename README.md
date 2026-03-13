@@ -54,6 +54,6 @@ curl -I https://docs.phillips-network.work/sitemap-index.xml | egrep -i 'HTTP/|C
 curl -I https://docs.phillips-network.work/sitemap.xml       | egrep -i 'HTTP/|Content-Type|Content-Length'
 ```
 
-Wenn du mir noch sagst, ob du ein **Open-Source Repo** (Code/Configs) oder nur eine **Doku-Repo-Seite** meinst, kann ich das README im Ton und in den Sections (Install/Deployment, Docker, Apache vhost, Cron für Sitemap, etc.) passend zuschneiden.
+Wenn du mir noch sagst, ob du ein **Open-Source Repo** (Code/Configs) oder nur eine **Doku-Repo-Seite** meinst, kann ich das README im Ton und in den Sections (Install/Deployment, Docker, Apache vhost, Cron für Sitemap, etc.) passend zuschneiden. 
 ::contentReference[oaicite:0]{index=0}
 
